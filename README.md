@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ola Aluko, a Machine Learning Engineer with 4-5 years of experience, specializing in Natural Language Processing (NLP), Computer Vision (CV), and Generative Models. Skilled in applying ML and DL techniques to solve real-world problems.
+Machine Learning Engineer focused on turning research into production-ready solutions. 4–5 years of experience across NLP, Computer Vision, and Generative Models, applying deep learning to solve real-world problems at scale.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
